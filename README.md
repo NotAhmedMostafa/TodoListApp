@@ -4,6 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
+![Screen_Recording_20240913_113528-ezgif com-resize](https://github.com/user-attachments/assets/9a50a402-2146-4c3c-bcd3-6bf331901ee1)
+
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
